@@ -28,4 +28,4 @@ For any queries or suggestions, feel free to reach out.
 
 ---
 
-> **Made with 💡 for learners by a M Zubair.**
+> **Made with 💡 for learners by M Zubair.**
