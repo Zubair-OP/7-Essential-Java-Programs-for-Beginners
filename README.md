@@ -1,4 +1,4 @@
-This repository contains **7 beginner-level Java programs** aimed at strengthening your **logical thinking and problem-solving skills**. Whether you are a student or just starting your programming journey, these programs will help you build a strong foundation.
+This repository contains **7 beginner-level JavaScript programs** aimed at strengthening your **logical thinking and problem-solving skills**. Whether you are a student or just starting your programming journey, these programs will help you build a strong foundation.
 
 ## 🧠 Topics Covered
 
